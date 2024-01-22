@@ -11,3 +11,7 @@
 ## Exams and Resources&#x20;
 
 * [Page 2](exams-and-resources/page-2.md)
+
+***
+
+* [📕 Comp 160: Algorithm](comp-160-algorithm.md)
