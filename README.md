@@ -1,49 +1,21 @@
 ---
-description: '''''''''Lecture note #0 - Jan 18, 2024'''''''
+description: '@Tufts University'
+cover: .gitbook/assets/kirb icon.jpeg
+coverY: 0
 ---
 
-# 🚩 Sorting Task
+# 📕 Comp 160: Algorithm
 
-## \[1] Problem statement
+**CLASS WEBSITE:** [https://www.cs.tufts.edu/comp/160/](https://www.cs.tufts.edu/comp/160/)\
+**PIAZZA:** https://piazza.com/class/lriousn6g8v36g\
+**GRADESCOPE:** [https://www.gradescope.com/courses/714046](https://www.gradescope.com/courses/714046) (course entry code 8E8NEK)\
+**MISSED CLASS RECORDINGS:** On [Canvas](https://canvas.tufts.edu/courses/53853).  No guarantee of quality/audibility/etc.
 
-1. What does the "sorted" mean  -> for example: alphabetically by name (first name or last name)... region ..
-   1. Sorting is for ordering? complete? or grouping?
-2. Explain your input
-3. State your assumptions&#x20;
+### Syllabus
 
-{% hint style="info" %}
-Sorting techniques:
+* This page (and [the schedule page](https://www.cs.tufts.edu/comp/160/schedule.html)) function as the course's syllabus.
 
-Divide-and-conquer&#x20;
+### **Textbook**
 
-`(Bucket sort`&#x20;
-
-`Insertion sort`
-
-`Bubble sort) comparison-based sorting`
-
-Counting sort&#x20;
-{% endhint %}
-
-
-
-### Problem 1
-
-Given an unsorted array  A \[1,2,...,n] if int, what is the largest value that can be obtained by multiplying all but are entry of A. Restriction: Can not use division.&#x20;
-
-\[15, 3, -2, 7,-9, 1, 4]
-
-Algorithm options:
-
-Brute force: eliminate each A, multiply rest and track max,  $$O(n^2)$$
-
-Count number of negative numbers
-
-1. If 0, removes smallest number&#x20;
-2. if odd, remove smallest negative int in abs value
-3. if even, possible ending: remove smallest non-negative&#x20;
-
-
-
-
-
+* The course is heavily based on the following book:\
+  **\[CLRS] T. H. Cormen, C. L. Leiserson, R. L. Rivest, and C. Stein. **_**Introduction to Algorithms (4th edition).**_** MIT Press, 2022.**
