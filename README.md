@@ -1,5 +1,5 @@
 ---
-description: '''''''''Lecture note #1 - Jan 18, 2024'''''''
+description: '''''''''Lecture note #0 - Jan 18, 2024'''''''
 ---
 
 # 🚩 Sorting Task
@@ -40,7 +40,7 @@ Brute force: eliminate each A, multiply rest and track max,  $$O(n^2)$$
 Count number of negative numbers
 
 1. If 0, removes smallest number&#x20;
-2. if odd, remove smallest in abs value
+2. if odd, remove smallest negative int in abs value
 3. if even, possible ending: remove smallest non-negative&#x20;
 
 
